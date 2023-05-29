@@ -12,10 +12,10 @@ This project provides a program that allows users to encrypt and decrypt message
 ## Usage
 
 1. Upon running the program, a menu will be displayed with the following options:
-   - 1) Encrypt Message
-   - 2) Decrypt Message
-   - 3) Display Vigenère Table
-   - 4) Exit the Program
+   - Encrypt Message
+   - Decrypt Message
+   - Display Vigenère Table
+   - Exit the Program
 
 2. Choose an option based on your requirements:
    - To encrypt a message, select option 1 and follow the prompts to enter the message and the key.
@@ -34,4 +34,4 @@ Contributions and feedback are welcome!
 ## Contact
 
 If you have any questions or feedback, feel free to contact me:
-- Mariah Contreras(mariah.contreras102@gmail.com)
+- Mariah Contreras (mariah.contreras102@gmail.com)
